@@ -4,7 +4,6 @@
 const CACHE_NAME = 'cache-v1';
 const urlsToCache = [
         './',
-        './manifest.json',
         './css/main.css',
         './images/cat.jpg',
         './js/main.js'
