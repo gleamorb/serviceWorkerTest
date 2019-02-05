@@ -3,12 +3,12 @@
     "short_name": "Service Worker Test",
     "icons": [
         {
-            "src": "/images/01.jpg",
+            "src": "./images/01.jpg",
             "sizes": "144x144",
             "type": "image/jpg"
         }
     ],
-    "start_url": "/",
+    "start_url": "./",
     "display": "standalone",
     "theme_color": "#e91e63"
 }
